@@ -1,0 +1,42 @@
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.deps.json
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.dll
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.pdb
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfoInputs.cache
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfo.cs
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.dll
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\refint\Solution.DAL.dll
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.pdb
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\ref\Solution.DAL.dll
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.runtimeconfig.json
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.EF.dll
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.Repository.dll
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DO.dll
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.EF.pdb
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.Repository.pdb
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DO.pdb
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.csproj.AssemblyReference.cache
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.csproj.CopyComplete
+E:\REPOSITORIO-GIT\C#\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.genruntimeconfig.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.deps.json
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.runtimeconfig.json
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.pdb
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.EF.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.Repository.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DO.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.EF.pdb
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DAL.Repository.pdb
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\bin\Debug\net6.0\Solution.DO.pdb
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.csproj.AssemblyReference.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfoInputs.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfo.cs
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.csproj.CopyComplete
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\refint\Solution.DAL.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.pdb
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.genruntimeconfig.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\ref\Solution.DAL.dll
