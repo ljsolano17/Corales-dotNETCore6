@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DO\\Solution.DO.csproj": {}
+    "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DO\\Solution.DO.csproj": {}
   },
   "projects": {
-    "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DO\\Solution.DO.csproj": {
+    "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DO\\Solution.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DO\\Solution.DO.csproj",
+        "projectUniqueName": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DO\\Solution.DO.csproj",
         "projectName": "Solution.DO",
-        "projectPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DO\\Solution.DO.csproj",
+        "projectPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DO\\Solution.DO.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DO\\obj\\",
+        "outputPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VISUAL STUDIO\\Components-Tools-SDK\\NuGetPackages"

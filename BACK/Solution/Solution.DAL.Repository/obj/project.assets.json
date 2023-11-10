@@ -2938,11 +2938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
+      "projectUniqueName": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
       "projectName": "Solution.DAL.Repository",
-      "projectPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
+      "projectPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DAL.Repository\\Solution.DAL.Repository.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DAL.Repository\\obj\\",
+      "outputPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DAL.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VISUAL STUDIO\\Components-Tools-SDK\\NuGetPackages"
@@ -2963,8 +2963,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DAL.EF\\Solution.DAL.EF.csproj": {
-              "projectPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.DAL.EF\\Solution.DAL.EF.csproj"
+            "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DAL.EF\\Solution.DAL.EF.csproj": {
+              "projectPath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.DAL.EF\\Solution.DAL.EF.csproj"
             }
           }
         }

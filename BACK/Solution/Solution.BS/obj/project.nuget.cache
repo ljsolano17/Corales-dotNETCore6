@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kv0MXoE35SsRTrUu7p1C1MSBy0c14VgrejqJi58NOjYIp2JZzkjkaE+LihfAnK4Mu5WNo34kH84mP0WpygfIlQ==",
+  "dgSpecHash": "frGRm3fe8oFWAaBwYt0ueuyq8WwQizMG8LBhr6yH+vgp32c4RbYXz1i9E8DQc81VoiheO51koNweqQ6HxOTRug==",
   "success": true,
-  "projectFilePath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\BACK\\Solution\\Solution.BS\\Solution.BS.csproj",
+  "projectFilePath": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\BACK\\Solution\\Solution.BS\\Solution.BS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
