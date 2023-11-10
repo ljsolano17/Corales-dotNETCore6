@@ -26,3 +26,17 @@ E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DO\obj\Debug\net6.0\refint
 E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.pdb
 E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.genruntimeconfig.cache
 E:\REPOSITORIO-GIT\DIVE .NET 6\BACK\Solution\Solution.DO\obj\Debug\net6.0\ref\Solution.DO.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\bin\Debug\net6.0\Solution.DO.deps.json
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\bin\Debug\net6.0\Solution.DO.runtimeconfig.json
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\bin\Debug\net6.0\Solution.DO.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\bin\Debug\net6.0\Solution.DO.pdb
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.csproj.AssemblyReference.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.AssemblyInfoInputs.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.AssemblyInfo.cs
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\refint\Solution.DO.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.pdb
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.genruntimeconfig.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\ref\Solution.DO.dll
