@@ -1,4 +1,5 @@
-﻿using Solution.DAL.EF;
+﻿using Microsoft.EntityFrameworkCore;
+using Solution.DAL.EF;
 using Solution.DO.Objects;
 using System;
 using System.Collections.Generic;
@@ -18,13 +19,19 @@ namespace Solution.DAL.Repository
 
         public async Task<IEnumerable<data.ArticulosSolicitud>> GetAllWithAsAsync()
         {
-            throw new NotImplementedException();
+            return await _db.ArticulosSolicitud
+                .Include(m => m.IdSolicitudNavigation)
+                .Include(m => m.IdSolicitudNavigation)
+                .ToListAsync();
         }
 
 
         public async Task<data.ArticulosSolicitud> GetOneByIdWithAsAsync(int id)
         {
-            throw new NotImplementedException();
+            return await _db.ArticulosSolicitud
+                .Include(m => m.IdArticuloNavigation)
+                .Include(m => m.IdSolicitudNavigation)
+                .SingleOrDefaultAsync(m => m.IdArticuloSolicitud == id);
         }
 
        
