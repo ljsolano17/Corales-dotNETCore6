@@ -5,6 +5,7 @@ using Solution.DAL.EF;
 using data = Solution.DO.Objects;
 using datamodels = Solution.API.DataModels;
 using AutoMapper;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Solution.API.Controllers
 {
@@ -14,19 +15,31 @@ namespace Solution.API.Controllers
     {
         private readonly SolutionDbContext _context;
         private readonly IMapper _mapper;
+        private readonly IMemoryCache _cache;
 
-        public SolicitudesController(SolutionDbContext context, IMapper mapper)
+        public SolicitudesController(SolutionDbContext context, IMapper mapper, IMemoryCache memoryCache)
         {
             _context = context;
             _mapper = mapper;
+            _cache = memoryCache;
         }
 
         // GET: api/Solicitudes
         [HttpGet]
         public async Task<ActionResult<IEnumerable<datamodels.Solicitudes>>> GetSolicitudes()
         {
+            var cacheKey = "solicitudesCacheKey";
+            if (_cache.TryGetValue(cacheKey, out IEnumerable<datamodels.Solicitudes> cachedCategorias))
+            {
+                return cachedCategorias.ToList();
+            }
             var aux = new BS.Solicitudes(_context).GetAll();
             var mapAux = _mapper.Map<IEnumerable<data.Solicitudes>, IEnumerable<datamodels.Solicitudes>>(aux).ToList();
+
+            var cacheOptions = new MemoryCacheEntryOptions()
+                .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
+            _cache.Set(cacheKey, mapAux, cacheOptions);
+
             return mapAux;
         }
 
@@ -34,12 +47,22 @@ namespace Solution.API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<datamodels.Solicitudes>> GetSolicitude(int id)
         {
+            var cacheKey = "solicitudesCacheKey";
+            if (_cache.TryGetValue(cacheKey, out datamodels.Solicitudes cachedCategorias))
+            {
+                return cachedCategorias;
+            }
             var aux = new BS.Solicitudes(_context).GetOneById(id);
             if (aux == null)
             {
                 return NotFound();
             }
             var mapAux = _mapper.Map<data.Solicitudes, datamodels.Solicitudes>(aux);
+
+            var cacheOptions = new MemoryCacheEntryOptions()
+              .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
+            _cache.Set(cacheKey, mapAux, cacheOptions);
+
             return mapAux;
         }
 
@@ -53,12 +76,12 @@ namespace Solution.API.Controllers
                 return BadRequest();
             }
 
-           
-
             try
             {
                 var mapAux = _mapper.Map<datamodels.Solicitudes, data.Solicitudes>(solicitudes);
                 new BS.Solicitudes(_context).Update(mapAux);
+                var cacheKey = "solicitudesCacheKey";
+                _cache.Remove(cacheKey);
             }
             catch (Exception ex)
             {
@@ -82,7 +105,8 @@ namespace Solution.API.Controllers
         {
             var mapAux = _mapper.Map<datamodels.Solicitudes, data.Solicitudes>(solicitudes);
             new BS.Solicitudes(_context).Insert(mapAux);
-
+            var cacheKey = "solicitudesCacheKey";
+            _cache.Remove(cacheKey);
             return CreatedAtAction("GetSolicitudes", new { id = solicitudes.IdSolicitud }, solicitudes);
         }
 
@@ -100,7 +124,10 @@ namespace Solution.API.Controllers
 
             new BS.Solicitudes(_context).Delete(solicitudes);
             var mapAux = _mapper.Map<data.Solicitudes, datamodels.Solicitudes>(solicitudes);
-            
+
+            var cacheKey = "solicitudesCacheKey";
+            _cache.Remove(cacheKey);
+
             return mapAux;
         }
 

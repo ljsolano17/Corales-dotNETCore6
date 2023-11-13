@@ -5,6 +5,7 @@ using datamodels = Solution.API.DataModels;
 using data = Solution.DO.Objects;
 using Solution.DAL.EF;
 using AutoMapper;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Solution.API.Controllers
 {
@@ -14,19 +15,30 @@ namespace Solution.API.Controllers
     {
         private readonly SolutionDbContext _context;
         private readonly IMapper _mapper;
+        private readonly IMemoryCache _cache;
 
-        public ArticulosSolicitudController(SolutionDbContext context, IMapper mapper)
+        public ArticulosSolicitudController(SolutionDbContext context, IMapper mapper, IMemoryCache memoryCache)
         {
             _context = context;
             _mapper = mapper;
+            _cache = memoryCache;
         }
 
         // GET: api/ArticulosSolicitud
         [HttpGet]
         public async Task<ActionResult<IEnumerable<datamodels.ArticulosSolicitud>>> GetArticulosSolicitud()
         {
+            var cacheKey = "ArticulosSolicitudCacheKey";
+            if (_cache.TryGetValue(cacheKey, out IEnumerable<datamodels.ArticulosSolicitud> cachedArticulosSolicitud))
+            {
+                return cachedArticulosSolicitud.ToList();
+            }
             var aux = await new BS.ArticulosSolicitud(_context).GetAllWithAsync();
             var mapAux = _mapper.Map<IEnumerable<data.ArticulosSolicitud>,IEnumerable<datamodels.ArticulosSolicitud>>(aux).ToList();
+
+            var cacheOptions = new MemoryCacheEntryOptions()
+                .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
+            _cache.Set(cacheKey, mapAux, cacheOptions);
 
             return mapAux;
             
@@ -36,6 +48,12 @@ namespace Solution.API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<datamodels.ArticulosSolicitud>> GetArticulosSolicitud(int id)
         {
+            var cacheKey = "ArticulosSolicitudCacheKey";
+            if (_cache.TryGetValue(cacheKey, out datamodels.ArticulosSolicitud cachedArticulosSolicitud))
+            {
+                return cachedArticulosSolicitud;
+            }
+
             var aux = await new BS.ArticulosSolicitud(_context).GetOneByIdWithAsync(id);
             var mapAux = _mapper.Map<data.ArticulosSolicitud, datamodels.ArticulosSolicitud>(aux);
 
@@ -44,6 +62,10 @@ namespace Solution.API.Controllers
             {
                 return NotFound();
             }
+
+            var cacheOptions = new MemoryCacheEntryOptions()
+                .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
+            _cache.Set(cacheKey, mapAux, cacheOptions);
 
             return mapAux;
         }
@@ -64,6 +86,8 @@ namespace Solution.API.Controllers
             {
                 var mapAux = _mapper.Map<datamodels.ArticulosSolicitud, data.ArticulosSolicitud>(articulosSolicitud);
                 new BS.ArticulosSolicitud(_context).Update(mapAux);
+                var cacheKey = "ArticulosSolicitudCacheKey";
+                _cache.Remove(cacheKey);
             }
             catch (Exception ex)
             {
@@ -88,6 +112,8 @@ namespace Solution.API.Controllers
 
             var mapAux = _mapper.Map<datamodels.ArticulosSolicitud,data.ArticulosSolicitud>(articulosSolicitud);
             new BS.ArticulosSolicitud (_context).Insert(mapAux);
+            var cacheKey = "ArticulosSolicitudCacheKey";
+            _cache.Remove(cacheKey);
 
             return CreatedAtAction("GetArticulosSolicitud", new { id = articulosSolicitud.IdArticuloSolicitud }, articulosSolicitud);
         }
@@ -107,7 +133,8 @@ namespace Solution.API.Controllers
             new BS.ArticulosSolicitud(_context).Delete(articulosSolicitud);
 
             var mapAux = _mapper.Map<data.ArticulosSolicitud,datamodels.ArticulosSolicitud>(articulosSolicitud);
-
+            var cacheKey = "ArticulosSolicitudCacheKey";
+            _cache.Remove(cacheKey);
 
             return mapAux;
         }

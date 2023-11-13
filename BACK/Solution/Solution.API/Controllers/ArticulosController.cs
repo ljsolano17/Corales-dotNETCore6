@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Solution.DAL.EF;
 using datamodels = Solution.API.DataModels;
 using data = Solution.DO.Objects;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Solution.API.Controllers
 {
@@ -14,20 +15,32 @@ namespace Solution.API.Controllers
     {
         private readonly SolutionDbContext _context;
         private readonly IMapper _mapper;
+        private readonly IMemoryCache _cache;
 
-        public ArticulosController(SolutionDbContext context, IMapper mapper)
+        public ArticulosController(SolutionDbContext context, IMapper mapper, IMemoryCache memoryCache)
         {
             _context = context;
             _mapper = mapper;
+            _cache = memoryCache;
         }
 
         // GET: api/Articulos
         [HttpGet]
         public async Task<ActionResult<IEnumerable<datamodels.Articulos>>> GetArticulos()
         {
+            var cacheKey = "articulosCacheKey";
+            if(_cache.TryGetValue(cacheKey, out IEnumerable<datamodels.Articulos> cachedArticulos))
+            {
+                return cachedArticulos.ToList();
+            }
+
             var aux = await new BS.Articulos(_context).GetAllWithAsync();
             var mapAux = _mapper.Map<IEnumerable<data.Articulos>,IEnumerable<datamodels.Articulos>>(aux).ToList();
             
+            var cacheOptions = new MemoryCacheEntryOptions()
+                .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
+            _cache.Set(cacheKey, mapAux, cacheOptions);
+
             return mapAux;
         }
 
@@ -35,7 +48,11 @@ namespace Solution.API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<datamodels.Articulos>> GetArticulo(int id)
         {
-           
+            var cacheKey = "articulosCacheKey";
+            if (_cache.TryGetValue(cacheKey, out datamodels.Articulos cachedArticulos))
+            {
+                return cachedArticulos;
+            }
             var aux = await new BS.Articulos(_context).GetOneByIdWithAsync(id);
             var mapAux = _mapper.Map<data.Articulos, datamodels.Articulos>(aux);
 
@@ -43,6 +60,9 @@ namespace Solution.API.Controllers
             {
                 return NotFound();
             }
+            var cacheOptions = new MemoryCacheEntryOptions()
+                .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
+            _cache.Set(cacheKey, mapAux, cacheOptions);
 
             return mapAux;
         }
@@ -61,6 +81,8 @@ namespace Solution.API.Controllers
             {
                 var mapAux = _mapper.Map<datamodels.Articulos, data.Articulos>(articulos);
                 new BS.Articulos(_context).Update(mapAux);
+                var cacheKey = "articulosCacheKey";
+                _cache.Remove(cacheKey);
             }
             catch (Exception ex)
             {
@@ -85,6 +107,9 @@ namespace Solution.API.Controllers
             var mapAux = _mapper.Map<datamodels.Articulos, data.Articulos>(articulos);
             new BS.Articulos(_context).Insert(mapAux);
 
+            var cacheKey = "articulosCacheKey";
+            _cache.Remove(cacheKey);
+
             return CreatedAtAction("GetArticulos", new { id = articulos.IdArticulo }, articulos);
         }
 
@@ -100,6 +125,9 @@ namespace Solution.API.Controllers
 
             new BS.Articulos(_context).Delete(articulos);
             var mapAux = _mapper.Map<data.Articulos,datamodels.Articulos>(articulos);
+
+            var cacheKey = "articulosCacheKey";
+            _cache.Remove(cacheKey);
 
             return mapAux;
         }
