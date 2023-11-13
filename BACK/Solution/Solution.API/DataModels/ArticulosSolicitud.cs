@@ -10,8 +10,8 @@
 
         public int? Cantidad { get; set; }
 
-        public virtual Articulos IdArticuloNavigation { get; set; } = null!;
+        public virtual Articulos? IdArticuloNavigation { get; set; } 
 
-        public virtual Solicitudes IdSolicitudNavigation { get; set; } = null!;
+        public virtual Solicitudes? IdSolicitudNavigation { get; set; } 
     }
 }
