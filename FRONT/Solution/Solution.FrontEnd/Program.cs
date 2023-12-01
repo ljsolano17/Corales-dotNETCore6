@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Rotativa.AspNetCore;
 using Solution.FrontEnd.Data;
 using Solution.FrontEnd.Models;
 
@@ -27,7 +28,13 @@ namespace Solution.FrontEnd
             builder.Services.AddRazorPages(); // Agregar esta línea
             builder.Services.AddControllersWithViews();
 
+            // Configura la ruta de Rotativa
+
+
             var app = builder.Build();
+
+
+            RotativaConfiguration.Setup(app.Environment.WebRootPath, "../Rotativa");
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

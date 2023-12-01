@@ -20,8 +20,8 @@ namespace Solution.DAL.Repository
         public async Task<IEnumerable<data.ArticulosSolicitud>> GetAllWithAsAsync()
         {
             return await _db.ArticulosSolicitud
+                .Include(m => m.IdArticuloNavigation)
                 .Include(m => m.IdSolicitudNavigation)
-                .Include(m => m.IdSolicitudNavigation)//posible error
                 .ToListAsync();
         }
 

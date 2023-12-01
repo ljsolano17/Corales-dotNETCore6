@@ -37,7 +37,7 @@ namespace Solution.API.Controllers
             var mapAux = _mapper.Map<IEnumerable<data.Solicitudes>, IEnumerable<datamodels.Solicitudes>>(aux).ToList();
 
             var cacheOptions = new MemoryCacheEntryOptions()
-                .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
+                .SetAbsoluteExpiration(TimeSpan.FromSeconds(5));
             _cache.Set(cacheKey, mapAux, cacheOptions);
 
             return mapAux;
