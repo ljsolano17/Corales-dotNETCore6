@@ -1,0 +1,207 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Solution.FrontEnd
+build_property.RootNamespace = Solution.FrontEnd
+build_property.ProjectDir = E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/ArticulosSolicituds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zU29saWNpdHVkc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/ArticulosSolicituds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zU29saWNpdHVkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/ArticulosSolicituds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zU29saWNpdHVkc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/ArticulosSolicituds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zU29saWNpdHVkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/ArticulosSolicituds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zU29saWNpdHVkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Articulos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Articulos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Articulos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Articulos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Articulos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Categorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Home/GetCorales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRDb3JhbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Home/GetPeces.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRQZWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Home/ListaDeseos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YURlc2Vvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Home/MisSolicitudes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaXNTb2xpY2l0dWRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Shared/_Layout - Copia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQgLSBDb3BpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Solicitudes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Solicitudes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Solicitudes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Solicitudes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Solicitudes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/Solicitudes/ReporteSolicitud.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdHVkZXNcUmVwb3J0ZVNvbGljaXR1ZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/REPOSITORIO-GIT/DIVE .NET 6/Corales-dotNETCore6/FRONT/Solution/Solution.FrontEnd/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

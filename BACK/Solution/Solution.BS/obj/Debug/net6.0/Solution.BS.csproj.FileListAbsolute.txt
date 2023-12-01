@@ -67,3 +67,4 @@ E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.BS\obj
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.BS\obj\Debug\net6.0\Solution.BS.pdb
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.BS\obj\Debug\net6.0\Solution.BS.genruntimeconfig.cache
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.BS\obj\Debug\net6.0\ref\Solution.BS.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.BS\obj\Debug\net6.0\Solution.BS.sourcelink.json

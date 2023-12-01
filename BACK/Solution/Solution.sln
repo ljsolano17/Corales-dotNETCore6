@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.API", "Solution.API\Solution.API.csproj", "{AB28DDF6-5461-4270-8F06-86E3241411AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.API", "Solution.API\Solution.API.csproj", "{AB28DDF6-5461-4270-8F06-86E3241411AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.API.W", "Solution.API.W\Solution.API.W.csproj", "{FE7B3F54-6576-48EC-BB08-D2E0A5D45087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.API.W", "Solution.API.W\Solution.API.W.csproj", "{FE7B3F54-6576-48EC-BB08-D2E0A5D45087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.DO", "Solution.DO\Solution.DO.csproj", "{43EF1DB7-2610-43A1-B337-49B6E4A4D1A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.DO", "Solution.DO\Solution.DO.csproj", "{43EF1DB7-2610-43A1-B337-49B6E4A4D1A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.DAL", "Solution.DAL\Solution.DAL.csproj", "{CF0A6012-BBD5-424D-9456-2A9E3C7C42D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.DAL", "Solution.DAL\Solution.DAL.csproj", "{CF0A6012-BBD5-424D-9456-2A9E3C7C42D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.DAL.EF", "Solution.DAL.EF\Solution.DAL.EF.csproj", "{E8B4FEDA-2DA0-4E8E-B770-167AB5714B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.DAL.EF", "Solution.DAL.EF\Solution.DAL.EF.csproj", "{E8B4FEDA-2DA0-4E8E-B770-167AB5714B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.DAL.Repository", "Solution.DAL.Repository\Solution.DAL.Repository.csproj", "{7264764D-0B1A-4594-A24E-723D8B139C06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.DAL.Repository", "Solution.DAL.Repository\Solution.DAL.Repository.csproj", "{7264764D-0B1A-4594-A24E-723D8B139C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.BS", "Solution.BS\Solution.BS.csproj", "{1C68E639-CB83-475D-A6DC-DCBEF801E509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.BS", "Solution.BS\Solution.BS.csproj", "{1C68E639-CB83-475D-A6DC-DCBEF801E509}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Solution.BS
 build_property.ProjectDir = E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.BS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

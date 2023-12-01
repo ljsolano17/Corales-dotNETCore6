@@ -1,0 +1,10 @@
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.csproj.AssemblyReference.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.AssemblyInfoInputs.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.AssemblyInfo.cs
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.MvcApplicationPartsAssemblyInfo.cs
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.MvcApplicationPartsAssemblyInfo.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.RazorAssemblyInfo.cache
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.RazorAssemblyInfo.cs
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\FRONT\Solution\Solution.FrontEnd\obj\Debug\net6.0\SolutionFrontEnd.sourcelink.json

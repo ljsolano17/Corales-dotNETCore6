@@ -7,7 +7,8 @@ using Solution.DAL.EF;
 using data = Solution.DO.Objects;
 using datamodels = Solution.API.DataModels;
 using Microsoft.Extensions.Caching.Memory;
-
+using Solution.DAL.Repository;
+using Solution.API.DataModels;
 
 namespace Solution.API.Controllers
 {
@@ -25,6 +26,8 @@ namespace Solution.API.Controllers
             _mapper = mapper;
             _cache = memoryCache;
         }
+
+      
 
         // GET: api/Categorias
         [HttpGet]

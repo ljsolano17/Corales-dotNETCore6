@@ -1,0 +1,1913 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\app.css",
+      "PackagePath": "staticwebassets\\public\\css\\app.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\public\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\public\\css\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\public\\css\\bootstrap-touchspin.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\dark.css",
+      "PackagePath": "staticwebassets\\public\\css\\dark.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\public\\css\\dropzone.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\fancytree.css",
+      "PackagePath": "staticwebassets\\public\\css\\fancytree.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\flatpickr-airbnb.css",
+      "PackagePath": "staticwebassets\\public\\css\\flatpickr-airbnb.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\flatpickr.css",
+      "PackagePath": "staticwebassets\\public\\css\\flatpickr.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\public\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\public\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\ion-rangeslider.css",
+      "PackagePath": "staticwebassets\\public\\css\\ion-rangeslider.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\jvectormap.css",
+      "PackagePath": "staticwebassets\\public\\css\\jvectormap.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\material-icons.css",
+      "PackagePath": "staticwebassets\\public\\css\\material-icons.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\nestable.css",
+      "PackagePath": "staticwebassets\\public\\css\\nestable.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\preloader.css",
+      "PackagePath": "staticwebassets\\public\\css\\preloader.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\quill.css",
+      "PackagePath": "staticwebassets\\public\\css\\quill.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\select2.css",
+      "PackagePath": "staticwebassets\\public\\css\\select2.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\sweetalert.css",
+      "PackagePath": "staticwebassets\\public\\css\\sweetalert.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\css\\toastr.css",
+      "PackagePath": "staticwebassets\\public\\css\\toastr.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\material-icons\\MaterialIcons-Regular.ijmap",
+      "PackagePath": "staticwebassets\\public\\data\\material-icons\\MaterialIcons-Regular.ijmap"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\custom\\jquery-jvectormap-de-merc-en.js",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\custom\\jquery-jvectormap-de-merc-en.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\custom\\jquery-jvectormap-es-merc-en.js",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\custom\\jquery-jvectormap-es-merc-en.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\custom\\jquery-jvectormap-fr-merc-en.js",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\custom\\jquery-jvectormap-fr-merc-en.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\custom\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\custom\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\custom\\jquery-jvectormap-us-lcc-en.js",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\custom\\jquery-jvectormap-us-lcc-en.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\custom\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\custom\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\custom\\mall-map.js",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\custom\\mall-map.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\data\\france-elections.json",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\data\\france-elections.json"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\data\\gdp-data.js",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\data\\gdp-data.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\data\\vector-maps\\data\\us-unemployment.json",
+      "PackagePath": "staticwebassets\\public\\data\\vector-maps\\data\\us-unemployment.json"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\fontawesome-free\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\public\\fonts\\fontawesome-free\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\material-icons\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\public\\fonts\\material-icons\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\material-icons\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\public\\fonts\\material-icons\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\material-icons\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\public\\fonts\\material-icons\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\fonts\\material-icons\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\public\\fonts\\material-icons\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\1280_15ntkpxqt54y-sai-kiran-anagani.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\1280_15ntkpxqt54y-sai-kiran-anagani.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\1280_derxvssqndm-artem-sapegin.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\1280_derxvssqndm-artem-sapegin.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\1280_work-station-straight-on-view.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\1280_work-station-straight-on-view.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\1280_writing-down-goals_4460x4460.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\1280_writing-down-goals_4460x4460.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_daniel-gaffey-1060698-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_daniel-gaffey-1060698-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_jeremy-banks-798787-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_jeremy-banks-798787-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_joao-silas-636453-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_joao-silas-636453-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_luke-porter-261779-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_luke-porter-261779-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_michael-dam-258165-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_michael-dam-258165-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_rsz_1andy-lee-642320-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_rsz_1andy-lee-642320-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_rsz_90-jiang-640827-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_rsz_90-jiang-640827-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_rsz_clem-onojeghuo-150467-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_rsz_clem-onojeghuo-150467-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_rsz_florian-perennes-594195-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_rsz_florian-perennes-594195-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_rsz_james-gillespie-714755-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_rsz_james-gillespie-714755-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_rsz_karl-s-973833-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_rsz_karl-s-973833-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_rsz_nicolas-horn-689011-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_rsz_nicolas-horn-689011-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_rsz_sharina-mae-agellon-377466-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_rsz_sharina-mae-agellon-377466-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\256_s-a-r-a-h-s-h-a-r-p-764291-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\256_s-a-r-a-h-s-h-a-r-p-764291-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\985px-Laravel.svg.png",
+      "PackagePath": "staticwebassets\\public\\images\\985px-Laravel.svg.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\Vue.js_Logo_2.svg",
+      "PackagePath": "staticwebassets\\public\\images\\Vue.js_Logo_2.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\achievements\\angular.png",
+      "PackagePath": "staticwebassets\\public\\images\\achievements\\angular.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\achievements\\flinto.png",
+      "PackagePath": "staticwebassets\\public\\images\\achievements\\flinto.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Basslet_de_caramelo_de_aguas_profundas.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Basslet_de_caramelo_de_aguas_profundas.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Brain_Coral_Favites.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Brain_Coral_Favites.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Caballito_de_mar_cola_de_tigre_criado_en_cautiverio_ORA®.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Caballito_de_mar_cola_de_tigre_criado_en_cautiverio_ORA®.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Coral de cuero de la mano del diablo.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Coral de cuero de la mano del diablo.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Coral_Acropora_surtido.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Coral_Acropora_surtido.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Coral_Montipora_Hoyuelos_incrustantes.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Coral_Montipora_Hoyuelos_incrustantes.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Coral_australiano_de_la_escolimia_coloreado.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Coral_australiano_de_la_escolimia_coloreado.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Coral_de_organo_de_tubos.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Coral_de_organo_de_tubos.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Coral_martillo.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Coral_martillo.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Espiga_amarilla_criada_en_cautividad_de_Biota.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Espiga_amarilla_criada_en_cautividad_de_Biota.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Mano_que_agita_tallo_grueso.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Mano_que_agita_tallo_grueso.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Pez_angel_Annularis.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Pez_angel_Annularis.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Pez_de_fuego_morado.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Pez_de_fuego_morado.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Pez_mandíbula_punto_azul.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Pez_mandíbula_punto_azul.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Pez_payaso_Ocellaris_criado_en_cautividad.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Pez_payaso_Ocellaris_criado_en_cautividad.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Pez_ángel_bicolor.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Pez_ángel_bicolor.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Pez_ángel_de_belleza_de_coral_criado_en_cautividad_de_Biota.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Pez_ángel_de_belleza_de_coral_criado_en_cautividad_de_Biota.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Polipo_de_colonia_rayas_rosadas.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Polipo_de_colonia_rayas_rosadas.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\Rosa_Millepora_Acropora_Coral.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\Rosa_Millepora_Acropora_Coral.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\angel_multibar.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\angel_multibar.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\coral.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\coral.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\peces_ángel_real.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\peces_ángel_real.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\prueba.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\prueba.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\articulos\\prueba2.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\articulos\\prueba2.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\dashboard\\artSol.png",
+      "PackagePath": "staticwebassets\\public\\images\\dashboard\\artSol.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\dashboard\\articulos.png",
+      "PackagePath": "staticwebassets\\public\\images\\dashboard\\articulos.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\dashboard\\categorias.png",
+      "PackagePath": "staticwebassets\\public\\images\\dashboard\\categorias.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\dashboard\\solicitudes.png",
+      "PackagePath": "staticwebassets\\public\\images\\dashboard\\solicitudes.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\components.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\components.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\facebook-square.png",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\facebook-square.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\facebook-square.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\facebook-square.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\facebook-square@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\facebook-square@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\twitter-square.png",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\twitter-square.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\twitter-square.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\twitter-square.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\twitter-square@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\twitter-square@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\vimeo-square.png",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\vimeo-square.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\vimeo-square.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\vimeo-square.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\vimeo-square@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\vimeo-square@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\youtube-square.png",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\youtube-square.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\youtube-square.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\youtube-square.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\footer\\youtube-square@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\footer\\youtube-square@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\prototype-white.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\prototype-white.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\prototype.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\prototype.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\rocket-white.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\rocket-white.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\rocket.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\rocket.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\rtl.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\rtl.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\skins.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\skins.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\template-white.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\template-white.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\icon\\template.svg",
+      "PackagePath": "staticwebassets\\public\\images\\icon\\template.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\illustration\\achievement\\128\\white.png",
+      "PackagePath": "staticwebassets\\public\\images\\illustration\\achievement\\128\\white.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\illustration\\achievement\\128\\white.svg",
+      "PackagePath": "staticwebassets\\public\\images\\illustration\\achievement\\128\\white.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\illustration\\player.svg",
+      "PackagePath": "staticwebassets\\public\\images\\illustration\\player.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\illustration\\student\\128\\black.svg",
+      "PackagePath": "staticwebassets\\public\\images\\illustration\\student\\128\\black.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\illustration\\student\\128\\white.svg",
+      "PackagePath": "staticwebassets\\public\\images\\illustration\\student\\128\\white.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\illustration\\teacher\\128\\black.svg",
+      "PackagePath": "staticwebassets\\public\\images\\illustration\\teacher\\128\\black.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\illustration\\teacher\\128\\white.png",
+      "PackagePath": "staticwebassets\\public\\images\\illustration\\teacher\\128\\white.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\illustration\\teacher\\128\\white.svg",
+      "PackagePath": "staticwebassets\\public\\images\\illustration\\teacher\\128\\white.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\logo\\TicoReefLogo.png",
+      "PackagePath": "staticwebassets\\public\\images\\logo\\TicoReefLogo.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\logo\\TicoReefLogoBW.png",
+      "PackagePath": "staticwebassets\\public\\images\\logo\\TicoReefLogoBW.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\logo\\TicoReefLogoW.png",
+      "PackagePath": "staticwebassets\\public\\images\\logo\\TicoReefLogoW.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\logo\\black-100@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\logo\\black-100@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\logo\\black-70@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\logo\\black-70@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\logo\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\public\\images\\logo\\bootstrap.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\logo\\bootstrap_body.svg",
+      "PackagePath": "staticwebassets\\public\\images\\logo\\bootstrap_body.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\logo\\white-100@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\logo\\white-100@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_277x96.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_277x96.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_64x64.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_64x64.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_64x64.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_64x64.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_96x96.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_96x96.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_96x96.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_96x96.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_patterns_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_patterns_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_patterns_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_patterns_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_patterns_430x168.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_patterns_430x168.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_routing_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_routing_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_routing_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_routing_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_services_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_services_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_services_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_services_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_services_430x168.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_services_430x168.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_testing_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_testing_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\angular_testing_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\angular_testing_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\craft_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\craft_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\craft_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\craft_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\craft_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\craft_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\craft_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\craft_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\craft_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\craft_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\devops_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\devops_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\devops_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\devops_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\devops_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\devops_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\devops_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\devops_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\devops_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\devops_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\figma_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\figma_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\figma_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\figma_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\figma_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\figma_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\figma_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\figma_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\figma_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\figma_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\flinto_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\flinto_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\flinto_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\flinto_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\flinto_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\flinto_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\flinto_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\flinto_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\flinto_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\flinto_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\invision_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\invision_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\invision_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\invision_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\invision_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\invision_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\invision_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\invision_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\invision_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\invision_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\mailchimp_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\mailchimp_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\mailchimp_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\mailchimp_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\mailchimp_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\mailchimp_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\mailchimp_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\mailchimp_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\mailchimp_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\mailchimp_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\photoshop_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\photoshop_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\photoshop_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\photoshop_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\photoshop_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\photoshop_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\photoshop_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\photoshop_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\photoshop_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\photoshop_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\react_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\react_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\react_277x96.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\react_277x96.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\react_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\react_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\react_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\react_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\react_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\react_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\react_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\react_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\redis_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\redis_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\redis_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\redis_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\redis_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\redis_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\redis_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\redis_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\redis_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\redis_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\sketch_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\sketch_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\sketch_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\sketch_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\sketch_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\sketch_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\sketch_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\sketch_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\sketch_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\sketch_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\swift_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\swift_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\swift_277x96.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\swift_277x96.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\swift_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\swift_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\swift_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\swift_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\swift_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\swift_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\swift_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\swift_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\typescript_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\typescript_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\typescript_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\typescript_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\typescript_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\typescript_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\typescript_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\typescript_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\typescript_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\typescript_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\typescript_64x64.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\typescript_64x64.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\typescript_64x64.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\typescript_64x64.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\typescript_892x286.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\typescript_892x286.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\wordpress_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\wordpress_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\wordpress_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\wordpress_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\wordpress_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\wordpress_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\wordpress_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\wordpress_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\wordpress_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\wordpress_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\xd_200x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\xd_200x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\xd_40x40.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\xd_40x40.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\xd_40x40.svg",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\xd_40x40.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\xd_40x40@2x.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\xd_40x40@2x.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\paths\\xd_430x168.png",
+      "PackagePath": "staticwebassets\\public\\images\\paths\\xd_430x168.png"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-1.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-1.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-2.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-2.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-3.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-3.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-4.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-4.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-5.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-5.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-6.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-6.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-7.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-7.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-8.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-8.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\guy-9.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\guy-9.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-1.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-1.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-10.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-10.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-2.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-2.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-3.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-3.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-4.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-4.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-5.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-5.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-6.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-6.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-7.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-7.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-8.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-8.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\110\\woman-9.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\110\\woman-9.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\256\\256_rsz_90-jiang-640827-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\256\\256_rsz_90-jiang-640827-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\256\\256_rsz_clem-onojeghuo-150467-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\256\\256_rsz_clem-onojeghuo-150467-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\256\\256_rsz_florian-perennes-594195-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\256\\256_rsz_florian-perennes-594195-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\256\\256_rsz_james-gillespie-714755-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\256\\256_rsz_james-gillespie-714755-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\256\\256_rsz_karl-s-973833-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\256\\256_rsz_karl-s-973833-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\256\\256_rsz_nicolas-horn-689011-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\256\\256_rsz_nicolas-horn-689011-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\256\\256_rsz_sharina-mae-agellon-377466-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\256\\256_rsz_sharina-mae-agellon-377466-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\256\\265_rsz_mubariz-mehdizadeh-364026-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\256\\265_rsz_mubariz-mehdizadeh-364026-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-1.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-1.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-2.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-2.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-3.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-3.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-4.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-4.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-5.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-5.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-6.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-6.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-7.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-7.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-8.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-8.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\guy-9.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\guy-9.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-1.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-1.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-10.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-10.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-2.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-2.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-3.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-3.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-4.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-4.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-5.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-5.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-6.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-6.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-7.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-7.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-8.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-8.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\people\\50\\woman-9.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\people\\50\\woman-9.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\photodune-4161018-group-of-students-m.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\photodune-4161018-group-of-students-m.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\photodune-6745579-modern-creative-man-relaxing-on-workspace-m.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\photodune-6745579-modern-creative-man-relaxing-on-workspace-m.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\256_rsz_clem-onojeghuo-193397-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\256_rsz_clem-onojeghuo-193397-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\256_rsz_dex-ezekiel-761373-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\256_rsz_dex-ezekiel-761373-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\256_rsz_euan-carmichael-666378-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\256_rsz_euan-carmichael-666378-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\256_rsz_jared-rice-388260-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\256_rsz_jared-rice-388260-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\256_rsz_phil-hearing-769014-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\256_rsz_phil-hearing-769014-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\256_rsz_rhema-kallianpur-275251-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\256_rsz_rhema-kallianpur-275251-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\256_rsz_ross-sneddon-798476-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\256_rsz_ross-sneddon-798476-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\256_rsz_thomas-russell-751613-unsplash.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\256_rsz_thomas-russell-751613-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\house-plant-on-wooden-slat-wall_4460x4460.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\house-plant-on-wooden-slat-wall_4460x4460.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\leaf-wall-office-space_925x.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\leaf-wall-office-space_925x.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\modern-business-woman-portrait_925x.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\modern-business-woman-portrait_925x.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\pink-wall-offices_925x.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\pink-wall-offices_925x.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\woman-in-modern-office_925x.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\woman-in-modern-office_925x.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\woman-in-office_925x.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\woman-in-office_925x.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\stories\\young-professional_925x.jpg",
+      "PackagePath": "staticwebassets\\public\\images\\stories\\young-professional_925x.jpg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\images\\visa.svg",
+      "PackagePath": "staticwebassets\\public\\images\\visa.svg"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\accordion.js",
+      "PackagePath": "staticwebassets\\public\\js\\accordion.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\app-icons.js",
+      "PackagePath": "staticwebassets\\public\\js\\app-icons.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\app.js",
+      "PackagePath": "staticwebassets\\public\\js\\app.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\chartjs-rounded-bar.js",
+      "PackagePath": "staticwebassets\\public\\js\\chartjs-rounded-bar.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\chartjs.js",
+      "PackagePath": "staticwebassets\\public\\js\\chartjs.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\check-selected-row.js",
+      "PackagePath": "staticwebassets\\public\\js\\check-selected-row.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\collapse-resize.js",
+      "PackagePath": "staticwebassets\\public\\js\\collapse-resize.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\public\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\dragula.js",
+      "PackagePath": "staticwebassets\\public\\js\\dragula.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\dropzone.js",
+      "PackagePath": "staticwebassets\\public\\js\\dropzone.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\fancytree.js",
+      "PackagePath": "staticwebassets\\public\\js\\fancytree.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\flatpickr.js",
+      "PackagePath": "staticwebassets\\public\\js\\flatpickr.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\hljs.js",
+      "PackagePath": "staticwebassets\\public\\js\\hljs.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\image.js",
+      "PackagePath": "staticwebassets\\public\\js\\image.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\ion-rangeslider.js",
+      "PackagePath": "staticwebassets\\public\\js\\ion-rangeslider.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\jvectormap.js",
+      "PackagePath": "staticwebassets\\public\\js\\jvectormap.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\list.js",
+      "PackagePath": "staticwebassets\\public\\js\\list.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\main.js",
+      "PackagePath": "staticwebassets\\public\\js\\main.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\mdk-carousel-control.js",
+      "PackagePath": "staticwebassets\\public\\js\\mdk-carousel-control.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\messages.js",
+      "PackagePath": "staticwebassets\\public\\js\\messages.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\nestable.js",
+      "PackagePath": "staticwebassets\\public\\js\\nestable.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.analytics-2-dashboard.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.analytics-2-dashboard.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.analytics-dashboard.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.analytics-dashboard.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.crm-dashboard.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.crm-dashboard.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.ecommerce.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.ecommerce.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.employees.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.employees.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.erp-dashboard.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.erp-dashboard.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.hr-dashboard.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.hr-dashboard.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.instructor-dashboard.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.instructor-dashboard.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.instructor-earnings.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.instructor-earnings.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.projects.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.projects.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.staff.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.staff.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.student-dashboard.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.student-dashboard.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.student-profile.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.student-profile.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.tasks-board.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.tasks-board.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\page.ui-charts.js",
+      "PackagePath": "staticwebassets\\public\\js\\page.ui-charts.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\public\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\player.js",
+      "PackagePath": "staticwebassets\\public\\js\\player.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\preloader.js",
+      "PackagePath": "staticwebassets\\public\\js\\preloader.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\quill.js",
+      "PackagePath": "staticwebassets\\public\\js\\quill.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\select2.js",
+      "PackagePath": "staticwebassets\\public\\js\\select2.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\settings.js",
+      "PackagePath": "staticwebassets\\public\\js\\settings.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\sidebar-mini.js",
+      "PackagePath": "staticwebassets\\public\\js\\sidebar-mini.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\sidebar.js",
+      "PackagePath": "staticwebassets\\public\\js\\sidebar.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\sweetalert.js",
+      "PackagePath": "staticwebassets\\public\\js\\sweetalert.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\theme-utils.js",
+      "PackagePath": "staticwebassets\\public\\js\\theme-utils.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\toastr.js",
+      "PackagePath": "staticwebassets\\public\\js\\toastr.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\toggle-check-all.js",
+      "PackagePath": "staticwebassets\\public\\js\\toggle-check-all.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\touchspin.js",
+      "PackagePath": "staticwebassets\\public\\js\\touchspin.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\js\\vector-maps.js",
+      "PackagePath": "staticwebassets\\public\\js\\vector-maps.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\Chart.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\Chart.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\public\\vendor\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\daterangepicker.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\dom-factory.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\dom-factory.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\dragula\\dragula.min.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\dragula\\dragula.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\dragula\\dragula.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\dragula\\dragula.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\dropzone.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\flatpickr\\airbnb.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\flatpickr\\airbnb.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\flatpickr\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\flatpickr\\flatpickr.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\flatpickr\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\flatpickr\\flatpickr.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\highlight.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\highlight.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jquery-jvectormap.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\jquery-jvectormap.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jquery.fancytree-all.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jquery.fancytree-all.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jquery.jvectormap.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jquery.jvectormap.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jquery.mask.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jquery.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jquery.nestable.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\jqvmap.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.croatia.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.croatia.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.new_regions_france.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.serbia.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.serbia.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.ukraine.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.ukraine.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.usa.counties.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.usa.counties.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.usa.districts.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\list.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\list.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\material-design-kit.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\material-design-kit.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\moment-range.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\moment-range.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\moment.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\moment.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\public\\vendor\\popper.min.js.map"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\quill.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\quill.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\spinkit.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\spinkit.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\sweetalert.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\toastr.min.css",
+      "PackagePath": "staticwebassets\\public\\vendor\\toastr.min.css"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\toastr.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\toastr.min.js"
+    },
+    {
+      "Id": "E:\\REPOSITORIO-GIT\\DIVE .NET 6\\Corales-dotNETCore6\\FRONT\\Solution\\Solution.FrontEnd\\wwwroot\\public\\vendor\\vue.min.js",
+      "PackagePath": "staticwebassets\\public\\vendor\\vue.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Solution.FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Solution.FrontEnd.props",
+      "PackagePath": "build\\Solution.FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Solution.FrontEnd.props",
+      "PackagePath": "buildMultiTargeting\\Solution.FrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Solution.FrontEnd.props",
+      "PackagePath": "buildTransitive\\Solution.FrontEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -40,3 +40,4 @@ E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.pdb
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.genruntimeconfig.cache
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\ref\Solution.DO.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DO\obj\Debug\net6.0\Solution.DO.sourcelink.json

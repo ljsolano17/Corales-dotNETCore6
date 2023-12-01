@@ -21,7 +21,7 @@ namespace Solution.DAL.Repository
         {
             return await _db.ArticulosSolicitud
                 .Include(m => m.IdSolicitudNavigation)
-                .Include(m => m.IdSolicitudNavigation)
+                .Include(m => m.IdSolicitudNavigation)//posible error
                 .ToListAsync();
         }
 

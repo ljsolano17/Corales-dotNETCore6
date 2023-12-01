@@ -61,3 +61,4 @@ E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DAL\ob
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.pdb
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.genruntimeconfig.cache
 E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\ref\Solution.DAL.dll
+E:\REPOSITORIO-GIT\DIVE .NET 6\Corales-dotNETCore6\BACK\Solution\Solution.DAL\obj\Debug\net6.0\Solution.DAL.sourcelink.json
